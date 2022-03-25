@@ -1,3 +1,4 @@
+#Update README file 
 echo "# alx-pre_course" >> README.md
 git init
 git add README.md
